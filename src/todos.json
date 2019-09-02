@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "title": "Tarea 1",
+            "responsible": "Esperanza", 
+            "description": "Curso de JS", 
+            "priority": "High"
+        },
+        {
+            "title": "Tarea 2",
+            "responsible": "Roberto", 
+            "description": "Curso de JS", 
+            "priority": "Low"
+        },
+        {
+            "title": "Tarea 3",
+            "responsible": "Josh", 
+            "description": "Curso de JS", 
+            "priority": "Medium"
+        },
+        {
+            "title": "Tarea 4",
+            "responsible": "Carlos", 
+            "description": "Curso de JS", 
+            "priority": "Fatal"
+        }
+    ]
+}
