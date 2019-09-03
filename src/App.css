@@ -13,6 +13,11 @@ nav{
   padding: 20px;
 }
 
+.titulo{
+  color: #fefefe;
+  margin: 1%;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

@@ -9,7 +9,7 @@
         {
             "title": "Tarea 2",
             "responsible": "Roberto", 
-            "description": "Curso de JS", 
+            "description": "Curso de PHP Laravel", 
             "priority": "Low"
         },
         {
@@ -21,7 +21,7 @@
         {
             "title": "Tarea 4",
             "responsible": "Carlos", 
-            "description": "Curso de JS", 
+            "description": "Curso de CSS", 
             "priority": "Fatal"
         }
     ]

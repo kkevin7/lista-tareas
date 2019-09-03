@@ -1,4 +1,4 @@
-import React, { Component }  from 'react';
+import React, { Component } from 'react';
 
 class Navigation extends Component {
     render() {
@@ -15,7 +15,11 @@ class Navigation extends Component {
                             <a className="nav-link" href="#">Home <span className="sr-only">(current)</span></a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Tareas</a>
+                            <a className="nav-link" href="#">Tareas
+                            <span className="badge badge-pill badge-info ml-2">
+                                    {this.props.numTask}
+                                </span>
+                            </a>
                         </li>
                     </ul>
                 </div>
