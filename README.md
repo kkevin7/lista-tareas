@@ -1,9 +1,10 @@
 # LISTA DE TAREAS CREADA CON REACT / TASKS LIST
 
 Puede visualizar el resutado en la dirección
-https://magiccoder.netlify.com/
+https://tasklistreact.netlify.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Also BootStrap 4.3.1
 
 ## Available Scripts
 
