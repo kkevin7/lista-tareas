@@ -31,7 +31,7 @@ class TaskForm extends Component {
 
     render() {
         return (
-            <div className="card col-6 mx-auto mt-2">
+            <div className="card col-12 col-sm-12 col-md-8 col-lg-5 mx-auto mt-2">
                 <form className="card-body" onSubmit={this.handleSubmit}>
                     <div className="form-group">
                         <input
@@ -72,7 +72,7 @@ class TaskForm extends Component {
                         </select>
                     </div>
                     <button type="submit" className="btn btn-primary">
-                        Save
+                        Agregar
                     </button>
                 </form>
             </div>
